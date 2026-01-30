@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @TsarIvanTheTerrible
-- 👀 I’m interested in AI Safety and AI Governance
-- 🌱 I’m currently learning Computing and Law
+
